@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "autocad-summary": {
+      "command": "python",
+      "args": [
+        "C:\\Users\\Dell\\Desktop\\MCP_SUMMARY\\server.py"
+      ],
+      "env": {
+        "AUTOCAD_CREATE_IF_NOT_EXISTS": "false",
+        "AUTOCAD_STARTUP_DELAY_SECONDS": "0.5"
+      }
+    }
+  }
+}
